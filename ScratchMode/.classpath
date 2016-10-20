@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/JDBC-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/library/jssc.jar"/>
+	<classpathentry kind="lib" path="C:/library/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/library/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/library/poi-3.13.jar"/>
+	<classpathentry kind="lib" path="C:/library/jaco-mp3-player-0.9.3.jar"/>
+	<classpathentry kind="lib" path="C:/library/miglayout15-swing.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
